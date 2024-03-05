@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    font-family: "Gill Sans";
+}
+
+.header {
+    background-color: #112D4E;
+    height: 200px;
+    padding: 50px;
+}
+
+.title {
+    padding-bottom: 20px;
+    font-size: 50px;
+    color: #F9F7F7;
+}
+
+b {
+    color: #f3ddf5;
+}
+
+.subtitle {
+    color: #819bba;
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+
+a {
+    color: #819bba;
+    font-size: 20px;
+}
+
+.about {
+    text-align: center;
+    background-color: #F9F7F7;
+}
+
+.about-text {
+    font-size: 40px;
+    color: #112D4E;
+}
+
+p {
+    padding: 10px 0;
+    font-size: 20px;
+}
